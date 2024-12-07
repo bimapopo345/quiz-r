@@ -126,7 +126,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "23. Perhatikan gambar di samping ini. Gambar tersebut menunjukkan arsitektur__________ [Referensi: https://www.cse.msu.edu/~cse870/Lectures/2013/09a-System-Design-notes.pdf]",
                 type: "multiple-choice",
-                image: "soal-23.png",
+                image: "/images/soal-23.png",
                 options: {
                     a: "Client Server",
                     b: "Pipe and Filter",
@@ -149,7 +149,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "25. Berdasarkan scenario tersebut, tentukan manakah yang merupakan sunny day scenario____________",
                 type: "multiple-choice",
-                image: "soal-25.png",
+                image: "/images/soal-25.png",
                 options: {
                     a: "(1)",
                     b: "(2)",
@@ -183,7 +183,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "28. Pada analisis dan perancangan menggunakan robustness diagram maupun sequence diagram. Terdapat simbol-simbol berikut ini (lihat gambar di samping). Secara berurutan dari atas ke bawah, simbol-simbol tersebut adalah________ [Referensi: https://repository.dinus.ac.id/docs/ajar/7_Whitebox_testing.pdf]",
                 type: "multiple-choice",
-                image: "soal-28.png",
+                image: "/images/soal-28.png",
                 options: {
                     a: "Boundary object, Entity Object, Control Object",
                     b: "Entity Object, Boundary object, Control Object",
@@ -195,7 +195,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "29. Message buatbaru() akan masuk ke dalam class_________",
                 type: "multiple-choice",
-                image: "soal-29.png",
+                image: "/images/soal-29.png",
                 options: {
                     a: "WorkOrderModel",
                     b: "WorkOrderController",
@@ -229,7 +229,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "32. Penggunaan font disesuaikan dengan hasil analisis terhadap user, task, dan environment. Hal ini sesuai dengan prinsip user interface design yaitu______",
                 type: "multiple-choice",
-                image: "soal-32.png",
+                image: "/images/soal-32.png",
                 options: {
                     a: "User Familiarity",
                     b: "Consistency",
@@ -241,7 +241,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "33. Berdasarkan contoh layout aplikasi di atas. Berikut ini adalah daftar komponen user interface yang benar_______________",
                 type: "multiple-choice",
-                image: "soal-33.png",
+                image: "/images/soal-33.png",
                 options: {
                     a: "Label, ComboBox, TextBox",
                     b: "TextBox, Label, CheckBox",
@@ -253,7 +253,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "34. Jika dalam suatu aplikasi terdapat fungsi login dengan interface seperti yang tampak pada gambar di samping ini. Terdapat 2 textbox untuk isian username dan password serta 1 tombol login. Untuk melakukan pengujian dengan teknik black box. Berapakah peluang maksimal scenario input salah yang bisa dibuat ________",
                 type: "multiple-choice",
-                image: "soal-34.png",
+                image: "/images/soal-34.png",
                 options: {
                     a: "2",
                     b: "8",
@@ -276,7 +276,7 @@ export const quizData: QuizQuestion[] = [
             {
                 question: "36. Dari flow graph yang sudah tersedia, nilai dari cyclomatic complexity program tersebut adalah________",
                 type: "multiple-choice",
-                image: "soal-36.png",
+                image: "/images/soal-36.png",
                 options: {
                     a: "9",
                     b: "11",
